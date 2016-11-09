@@ -48,13 +48,13 @@ h1 {
   width:106px;
 }
 
-.about-me .column-one, .about-me .column-two{
-  width:300px;
+.about-me .column-one, .about-me .column-two, .about-me .column-three{
+  width:225px;
   margin-bottom:20px;
 }
 
- .about-me .content .column-three{
-  width:300px;
+ .about-me .content .column-four{
+  width:225px;
   margin-bottom:70px;
  }
 
