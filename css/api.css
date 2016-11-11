@@ -304,7 +304,7 @@ h1 span{
    font-size:24px;
    width:300px;
    line-height:60px;
-   float:left;
+  /* float:left;*/
    list-style: none;
    left:-20%;
  }
