@@ -523,7 +523,6 @@ h1 span{
 .about-me .column-four .circle-four{ 
   height: 100px;
   position:relative;
-  float:center;
   margin:0px 130% 0px;
   border:2px solid #f0f0f0;
   background: url(../img/icons/free.png) white no-repeat center center;
@@ -539,10 +538,12 @@ h1 span{
 	transition: all 0.2s ease-in;
 }
 
-.about-me.column-four.text-four{
+.about-me .column-four .text-four{
 	width:300px;
 	float:left;
-	margin: 40px 300px 70px 300px;
+	position:relative;
+	left:-10px;
+	margin: 0px 300px 70px 300px;
 	height:350px;
 }
 
