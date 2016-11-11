@@ -536,6 +536,8 @@ h1 span{
 	-ms-transition: all 0.2s ease-in;
 	-o-transition: all 0.2s ease-in;
 	transition: all 0.2s ease-in;
+	
+	<button onclick="myClick()"</button>;
 }
 
 .about-me .column-four .text-four{
@@ -550,6 +552,8 @@ h1 span{
 .about-me .column-four .circle-four:hover{ 
   border:2px solid #ada074;
 }
+
+<script> function myclick() { <a href="/Kierans CV" download="Kieran Bond CV"> }
 
 
 
