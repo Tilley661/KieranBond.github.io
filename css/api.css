@@ -539,6 +539,13 @@ h1 span{
 	transition: all 0.2s ease-in;
 }
 
+.about-me.column-four.text-four{
+	width:300px;
+	float:left;
+	margin: 0px 130% 0px;
+	height:350px;
+}
+
 .about-me .column-four .circle-four:hover{ 
   border:2px solid #ada074;
 }
