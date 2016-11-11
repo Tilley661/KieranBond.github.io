@@ -511,20 +511,20 @@ h1 span{
 
 
 .about-me .column-four{ 
+ 
   margin-top:40px;
   width:300px;
   float:left;
   margin-bottom:70px;
   height:350px;
-  margin-left: 100%;
-  margin-right: 100%;
+  
 }
 
 .about-me .column-four .circle-four{ 
   height: 100px;
   position:relative;
-  float: center;
-  margin:0px 100% 0px 100%;
+  float:center;
+  margin:0px 130% 0px;
   border:2px solid #f0f0f0;
   background: url(../img/icons/free.png) white no-repeat center center;
   -moz-border-radius:100px;
