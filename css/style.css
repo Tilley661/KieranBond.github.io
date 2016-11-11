@@ -300,9 +300,9 @@ h1 span{
    font-size:24px;
    width:0px;
    line-height:60px;
-  /* float:relative;*/
+   float:left;
    list-style: none;
-   left:-20%;
+   left:0%;
  }
 
 .menu-content ul{
